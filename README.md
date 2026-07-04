@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radhika Goyal</h1>
 
 <h3 align="center">📊 Data Analyst | Power BI · Python · SQL | 
-B.Tech CSE 3rd Year</h3>
+B.Tech CSE 4th Year</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code
